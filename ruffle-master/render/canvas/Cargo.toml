@@ -1,0 +1,35 @@
+[package]
+name = "ruffle_render_canvas"
+version = "0.1.0"
+authors = ["Mike Welsh <mwelsh@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+base64 = "0.13.0"
+fnv = "1.0.7"
+js-sys = "0.3.46"
+log = "0.4"
+ruffle_web_common = { path = "../../web/common" }
+svg = "0.9.1"
+percent-encoding = "2.1.0"
+png = "0.16.8"
+wasm-bindgen = "=0.2.69"
+
+[dependencies.jpeg-decoder]
+version = "0.1.22"
+default-features = false # can't use rayon on web
+
+[dependencies.ruffle_core]
+path = "../../core"
+default-features = false
+
+[dependencies.web-sys]
+version = "0.3.45"
+features = [
+    "CanvasRenderingContext2d", "CssStyleDeclaration", "Document", "Element", "HtmlCanvasElement", "HtmlElement", "HtmlImageElement",
+    "Navigator", "Node", "UiEvent", "Window", "Path2d", "CanvasGradient", "CanvasPattern", "SvgMatrix", "SvgsvgElement"
+]

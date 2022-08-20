@@ -1,0 +1,25 @@
+[workspace]
+members = [
+    "core",
+    "core/macros",
+    "desktop",
+    "swf",
+    "web",
+    "scanner",
+    "exporter",
+
+    "render/canvas",
+    "render/wgpu",
+    "render/common_tess",
+    "render/webgl",
+]
+
+# Don't optimize build scripts and macros.
+[profile.release.build-override]
+opt-level = 0
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
