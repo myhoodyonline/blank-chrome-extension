@@ -1,0 +1,992 @@
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-4d81aad1-frtpsaee
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .Body  {
+		
+						font-size: 12px;
+						max-width: 650px;
+						margin-right: 20px;
+						margin-left: 20px;
+						margin-bottom: 10px;
+						line-height: 1.4em;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .Subtitle  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .Body h2  { 
+						font-size: 15px;
+						color: rgb(110, 110, 110);
+						max-width: 650px;
+						letter-spacing: 0.1em;
+						margin-right: 20px;
+						margin-top: 15px;
+						margin-left: 20px;
+						margin-bottom: 15px;
+						font-family: Arial;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .quote-holder  {
+		
+						margin-bottom: 45px;
+						margin-top: 35px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .subtitle-wrapper  {
+		
+						max-width: 1180px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .Title  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .Body h1  { 
+						font-size: 22px;
+						color: rgb(0, 0, 0);
+						max-width: 650px;
+						letter-spacing: 0.05em;
+						margin-right: 20px;
+						margin-top: 30px;
+						margin-left: 20px;
+						font-family: Montserrat;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .link-wrapper  {
+		
+						max-width: 1058px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .Quote  {
+		
+						margin-right: 50px;
+						font-family: 'Times New Roman';
+						font-size: 19px;
+						margin-left: 50px;
+						font-style: italic;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .raw-container  {
+		
+						margin-right: 50px;
+						padding-bottom: 0px;
+						padding-right: 0px;
+						margin-top: 0px;
+						padding-left: 0px;
+						padding-top: 0px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .quote-author  {
+		
+						font-style: italic;
+						font-size: 19px;
+						color: rgb(124, 124, 124);
+						margin-right: 50px;
+						margin-top: 10px;
+						margin-left: 50px;
+						font-family: 'Times New Roman';	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .title-wrapper  {
+		
+						max-width: 1180px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .item-links span  {
+		
+						font-family: Arial;
+						font-size: 13px;
+						color: rgb(0, 0, 0);
+						padding-bottom: 10px;
+						letter-spacing: 0.1em;
+						padding-right: 15px;
+						margin-top: 20px;
+						padding-left: 15px;
+						padding-top: 10px;
+						margin-bottom: 20px;
+						border-width: 1px;
+						background-color: rgba(66, 117, 83, 0);
+						margin-left: 50px;	
+		}
+	
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-frtpsaee .body-wrapper  {
+		
+						max-width: 1032px;	
+		}
+	 .style-4d81aad1-frtpsaee.master.container > #children  {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-title:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-title:not(.custom) { 
+						font-family: Monoton;
+				
+						letter-spacing: 0.05em;
+				
+						direction: ltr;
+				
+						line-height: 0.1em;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-element.Link:not(.custom)  {
+		
+						font-family: Raleway;
+				
+						letter-spacing: 0.15em;
+				
+						line-height: 1.32em;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-subtitle:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-subtitle:not(.custom) { 
+						font-family: Titillium WebBlack;
+				
+						letter-spacing: 0.05em;
+				
+						direction: ltr;
+				
+						line-height: 1.09em;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-body:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-body:not(.custom) { 
+						font-family: ff-tisa-web-pro;
+				
+						letter-spacing: 0.0em;
+				
+						line-height: 2.1em;
+					
+		}
+	
+	
+	
+			body    {
+		
+						background-image: url('https://lh3.googleusercontent.com/kkckoLoBFpN1Uo7DoIYbfiYkH8KdE_rZJcWsB1CEmLvu2q4NuTmpi2dXDMwucUSEVha9dF61PRvq3Li2R8iQu1DLT_Rqs1JCrYREOVk-Hg=s1600');
+					
+		}/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-4d81aad1-t1iciv8e
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e.master.item-box   {
+		
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-title  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-body h1  { 
+						font-size: 15px;
+						color: rgb(30, 30, 30);
+						letter-spacing: 0em;
+						margin-right: 20px;
+						margin-top: 25px;
+						margin-left: 20px;
+						margin-bottom: 5px;
+						font-family: Montserrat;
+						background-color: rgba(11, 11, 11, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-link-img  {
+		
+						width: 40px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e  .preview-content-wrapper  {
+		
+						text-align: center;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e  .preview-content-holder  {
+		
+						margin-right: 20px;
+						text-align: center;
+						background-color: rgba(246, 239, 217, 0);
+						margin-left: 20px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-item-links span  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e #sr-basket-widget *  { 
+						color: #ffffff;
+						font-family: Arial;
+						font-size: 13px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-title-holder  {
+		
+						text-align: left;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .item-content:not(.blocks_layout)  {
+		
+						background-color: rgb(34, 52, 58);	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-subtitle-holder  {
+		
+						text-align: center;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-body  {
+		
+						color: rgb(104, 104, 104);
+						margin-bottom: 40px;
+						font-size: 14px;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-element.icon-source  {
+		
+						padding-right: 20px;
+						padding-left: 20px;
+						width: 60px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-social-holder  {
+		
+						margin-bottom: 10px;
+						margin-top: 20px;
+						margin-left: 5px;
+						margin-right: 5px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-body-holder  {
+		
+						text-align: left;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .stripe-background  {
+		
+						margin-top: -60px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .middle_layout .helper-div  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1050px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-subtitle  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-t1iciv8e .preview-body h2  { 
+						line-height: 1.2em;
+						font-size: 12px;
+						color: rgb(142, 142, 142);
+						letter-spacing: 0.1em;
+						margin-right: 20px;
+						margin-left: 20px;
+						font-family: Arial;
+						background-color: rgba(0, 0, 0, 0);	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-b2630b08-o26olxg8
+ *                                 	 
+ ******************************************************************************************************/
+	 .master .style-b2630b08-o26olxg8 .Body  {
+		
+						font-size: 12px;
+						max-width: 650px;
+						margin-right: 20px;
+						margin-left: 20px;
+						margin-bottom: 10px;
+						line-height: 1.4em;	
+		}
+	 .master .style-b2630b08-o26olxg8 .Subtitle  ,  .master .style-b2630b08-o26olxg8 .Body h2  { 
+						font-size: 15px;
+						color: rgb(110, 110, 110);
+						max-width: 650px;
+						letter-spacing: 0.1em;
+						margin-right: 20px;
+						margin-top: 15px;
+						margin-left: 20px;
+						margin-bottom: 15px;
+						font-family: Arial;	
+		}
+	 .master .style-b2630b08-o26olxg8 .quote-holder  {
+		
+						margin-bottom: 45px;
+						margin-top: 35px;	
+		}
+	 .master .style-b2630b08-o26olxg8 .subtitle-wrapper  {
+		
+						max-width: 1180px;	
+		}
+	 .master .style-b2630b08-o26olxg8 .Title  ,  .master .style-b2630b08-o26olxg8 .Body h1  { 
+						font-size: 22px;
+						color: rgb(0, 0, 0);
+						max-width: 650px;
+						letter-spacing: 0.05em;
+						margin-right: 20px;
+						margin-top: 30px;
+						margin-left: 20px;
+						font-family: Montserrat;	
+		}
+	 .master .style-b2630b08-o26olxg8 .link-wrapper  {
+		
+						max-width: 1058px;	
+		}
+	 .master .style-b2630b08-o26olxg8 .Quote  {
+		
+						margin-right: 50px;
+						font-family: 'Times New Roman';
+						font-size: 19px;
+						margin-left: 50px;
+						font-style: italic;	
+		}
+	 .master .style-b2630b08-o26olxg8 .quote-author  {
+		
+						font-style: italic;
+						font-size: 19px;
+						color: rgb(124, 124, 124);
+						margin-right: 50px;
+						margin-top: 10px;
+						margin-left: 50px;
+						font-family: 'Times New Roman';	
+		}
+	 .master .style-b2630b08-o26olxg8 .title-wrapper  {
+		
+						max-width: 1180px;	
+		}
+	 .master .style-b2630b08-o26olxg8 .item-links span  {
+		
+						font-family: Arial;
+						font-size: 13px;
+						color: rgb(0, 0, 0);
+						padding-bottom: 10px;
+						letter-spacing: 0.1em;
+						padding-right: 15px;
+						margin-top: 20px;
+						padding-left: 15px;
+						padding-top: 10px;
+						margin-bottom: 20px;
+						border-width: 1px;
+						background-color: rgba(66, 117, 83, 0);
+						margin-left: 50px;	
+		}
+	
+	 .master .style-b2630b08-o26olxg8 .body-wrapper  {
+		
+						max-width: 1032px;	
+		}
+	 .style-b2630b08-o26olxg8.master.container > #children  {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-title:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-title:not(.custom) { 
+						font-family: Monoton;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-subtitle:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-subtitle:not(.custom) { 
+						font-family: Dosis;
+					
+		}
+	
+	
+	
+			body    {
+		
+						background-image: url('https://lh3.googleusercontent.com/kkckoLoBFpN1Uo7DoIYbfiYkH8KdE_rZJcWsB1CEmLvu2q4NuTmpi2dXDMwucUSEVha9dF61PRvq3Li2R8iQu1DLT_Rqs1JCrYREOVk-Hg=s1600');
+					
+		}/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-2cc42701-uyikxnaa
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa  .preview-content-holder  {
+		
+						margin-right: 0px;
+						padding-bottom: 0px;
+						text-align: center;
+						max-width: 750px;
+						padding-right: 0px;
+						margin-top: 30px;
+						margin-left: 0px;
+						padding-top: 0px;
+						margin-bottom: 45px;
+						background-color: rgba(0, 0, 0, 0);
+						padding-left: 0px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-divider  {
+		
+						margin-bottom: 10px;
+						border-bottom-width: 1px;
+						margin-top: 10px;
+						width: 15%;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .inner-pic  {
+		
+						color: rgb(0, 0, 0);
+						opacity: 0.94;
+		    			-webkit-filter: brightness(0.6);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-form .Field  {
+		
+						border-width: 1px;
+						font-size: 14px;
+						color: rgb(255, 255, 255);
+						padding-bottom: 15px;
+						border-color: rgb(76, 25, 53);
+						max-width: 500px;
+						padding-right: 10px;
+		    			border-top-style:solid,border-bottom-style:solid,border-left-style:solid,border-right-style:solid;border-style:solid;
+						padding-left: 15px;
+						padding-top: 10px;
+						min-width: 110px;
+						font-family: Raleway;
+						background-color: transparent;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-form .Field:hover  ,  .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-form .Field.hover-tester:not(.placeholder-mode)  { 
+						color: rgb(0, 0, 0);
+						background-color: rgb(172, 102, 102);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-form .Field:not(.placeholder-mode):not(:hover)  {
+		
+						color: rgb(0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						padding-right: 6%;
+						width: 88%;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .background-div  {
+		
+						opacity: 0.4;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-title  ,  .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-body h1  { 
+						font-family: 'Playfair Display';
+						font-size: 49px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.0em;
+						margin-top: 0px;
+						margin-bottom: 10px;
+						line-height: 1.1em;
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa.master.item-box   {
+		
+						padding-left: 0%;
+						width: 100%;
+						padding-right: 0%;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-item-links span  ,  .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa #sr-basket-widget *  { 
+						border-width: 1px;
+						font-size: 12px;
+						text-transform: uppercase;
+						color: rgba(250, 250, 250, 0.941176);
+						padding-bottom: 10px;
+						border-color: rgba(250, 250, 250, 0.941176);
+						letter-spacing: 0.15em;
+						padding-right: 30px;
+						margin-top: 20px;
+						padding-left: 30px;
+						border-radius: 0px;
+						padding-top: 10px;
+						margin-bottom: 10px;
+						font-family: Montserrat;
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .stripe-background  {
+		
+						margin-left: 0%;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-element.icon-source  {
+		
+						margin-bottom: 5px;
+						margin-top: 5px;
+						width: 130px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-form .Field.placeholder-mode:not(:hover)  {
+		
+						color: rgb(0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .background-image-div  {
+		
+						color: rgb(0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-item-links span:before  ,  .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .effect-tester  { 
+						background-color: rgba(250, 250, 250, 0.941176);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-body-holder  {
+		
+						max-width: 600px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa  .preview-content-wrapper  {
+		
+						text-align: center;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-item-links span:hover  ,  .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-element.Link.hover-tester  { 
+						color: rgb(73, 73, 73);
+						background-color: rgba(250, 250, 250, 0.941176);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .inner-pic-holder  {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-body  {
+		
+						line-height: 1.4em;
+						font-size: 12px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0em;
+						max-width: 800px;
+						margin-top: 10px;
+						margin-bottom: 15px;
+						font-family: Arial;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .field-holder  {
+			
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .middle_layout .helper-div  ,  .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-subtitle  ,  .style-b2630b08-o26olxg8 .style-2cc42701-uyikxnaa .preview-body h2  { 
+						line-height: 1.1em;
+						font-size: 34px;
+						text-transform: uppercase;
+						color: rgb(255, 255, 255);
+						letter-spacing: 0.2em;
+						margin-right: 0px;
+						margin-top: 10px;
+						margin-left: 0px;
+						margin-bottom: 30px;
+						font-family: Abel;	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-1c69c2d5-hnbj5die
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die  .preview-content-holder  {
+		
+						margin-right: 0px;
+						padding-bottom: 0px;
+						text-align: center;
+						max-width: 650px;
+						padding-right: 0px;
+						margin-top: 50px;
+						margin-left: 0px;
+						padding-top: 0px;
+						margin-bottom: 50px;
+						background-color: rgba(255, 255, 255, 0);
+						padding-left: 0px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .item-content:not(.blocks_layout)  {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-divider  {
+		
+						border-bottom-width: 4px;
+						border-color: rgb(0, 0, 0);
+						width: 10%;	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .inner-pic  {
+		
+						opacity: 1;
+						color: rgb(0, 0, 0);
+		    			-webkit-filter: brightness(0.6);	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-subtitle-holder  {
+		
+						max-width: 1050px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						width: 88%;
+						padding-right: 6%;	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .background-div  {
+			
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-title  ,  .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-body h1  { 
+						font-family: 'Playfair Display';
+						font-size: 27px;
+						color: rgb(159, 133, 68);
+						letter-spacing: 0.0em;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						line-height: 1.1em;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-item-links span  ,  .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die #sr-basket-widget *  { 
+						font-family: Arial;
+						font-size: 12px;
+						color: rgb(0, 0, 0);
+						padding-bottom: 10px;
+						border-color: rgb(0, 0, 0);
+						letter-spacing: 0.1em;
+						padding-right: 30px;
+						margin-top: 20px;
+						padding-left: 30px;
+						border-radius: 18px;
+						padding-top: 10px;
+						border-width: 2px;
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-element.icon-source  {
+		
+						width: 60px;
+						margin-bottom: 15px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .background-image-div  {
+		
+						color: rgb(0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-item-links span:before  ,  .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .effect-tester  { 
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-body-holder  {
+		
+						max-width: 800px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die  .preview-content-wrapper  {
+		
+						text-align: center;
+						vertical-align: middle;	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-item-links span:hover  ,  .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .inner-pic-holder  {
+		
+						background-color: rgb(34, 52, 58);	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-icon-holder  {
+		
+						margin-bottom: 40px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-body  {
+		
+						font-family: Abel;
+						font-size: 15px;
+						color: rgb(0, 0, 0);
+						max-width: 800px;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						line-height: 1.5em;	
+		}
+	
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .middle_layout .helper-div  ,  .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-subtitle  ,  .style-b2630b08-o26olxg8 .style-1c69c2d5-hnbj5die .preview-body h2  { 
+						line-height: 1.5em;
+						font-size: 49px;
+						margin-right: 0px;
+						color: rgba(21, 24, 82, 0.81);
+						letter-spacing: 0.0em;
+						font-weight: bold;
+						margin-top: 10px;
+						margin-left: 0px;
+						margin-bottom: 10px;
+						font-family: Abel;	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+ .style-1c69c2d5-hnbj5die #vbid-1c69c2d5-cbl7vn9o .preview-content-holder{
+				
+							text-align : center;
+					
+				}
+
+
+ .style-1c69c2d5-hnbj5die #vbid-1c69c2d5-ueex1evn.inner-pic{
+				
+							background-position : 49.2685470581055% 69.2805786132813%;
+					
+				} .style-1c69c2d5-hnbj5die #vbid-1c69c2d5-a5bgqasz.inner-pic{
+				
+							background-position : 50% 50%;
+					
+				} .style-1c69c2d5-hnbj5die #vbid-1c69c2d5-hywzufbs.inner-pic{
+				
+							background-position : 50.3135% 29.5905%;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+ .style-1c69c2d5-hnbj5die #vbid-1c69c2d5-cbl7vn9o .preview-content-wrapper{
+				
+							text-align : center;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-4d81aad1-r123wom3
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3.master.item-box   {
+		
+						position: relative;
+						background-color: rgb(3, 7, 41);	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-item-links span:hover  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						background-color: rgba(147, 147, 147, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3.master.item-box   {
+		
+						padding-left: 6%;
+						padding-right: 6%;
+						width: 88%;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-item-links  {
+		
+						text-align: center;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3  .preview-content-holder  {
+		
+						border-color: rgb(214, 214, 214);
+						max-width: 2000px;
+						margin-right: 10px;
+						margin-top: 15px;
+						margin-left: 10px;
+						background-color: rgba(0, 0, 0, 0);
+						text-align: right;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-item-links span  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 #sr-basket-widget *  { 
+						font-family: Love Ya Like A Sister;
+						font-size: 19px;
+						text-transform: uppercase;
+						color: rgb(110, 100, 100);
+						padding-bottom: 3px;
+						border-color: rgb(246, 246, 246);
+						letter-spacing: 0.3em;
+						max-width: 1150px;
+						padding-right: 10px;
+						padding-left: 10px;
+						padding-top: 3px;
+						line-height: 0.57em;
+						background-color: rgba(255, 255, 255, 0);
+						margin-left: 17px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-title  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-body h1  { 
+						font-size: 22px;
+						color: rgb(80, 195, 190);
+						letter-spacing: 0.05em;
+						font-weight: bold;
+						margin-left: 10px;
+						font-family: Dosis;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-item-links.allow-bg-color  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .submenu  { 
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-title-holder  {
+		
+						text-align: left;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(244, 203, 74, 0);	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-subtitle-holder  {
+		
+						text-align: left;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .stripe-background  {
+		
+						margin-left: -6%;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-element.icon-source  {
+		
+						color: rgb(255, 255, 255);
+						width: 140px;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3  .preview-content-wrapper  {
+		
+						vertical-align: bottom;
+						text-align: center;	
+		}
+	 .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-subtitle  ,  .style-b2630b08-o26olxg8 .style-4d81aad1-r123wom3 .preview-body h2  { 
+						font-size: 129px;
+						color: rgb(152, 152, 152);
+						letter-spacing: 0.05em;
+						margin-right: 0px;
+						margin-top: 5px;
+						margin-left: 10px;
+						font-family: Arial;	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
